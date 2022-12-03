@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223811597009",
+    "project_id": "windramayu-api",
+    "storage_bucket": "windramayu-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223811597009:android:88480b4a18c93cc7d64bf0",
+        "android_client_info": {
+          "package_name": "com.utdi.windramayu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223811597009-on6v3r9h6r6cbh76i2kbf66qedbnd4g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXzpgVt_M_rrLFquDfjnOa5hRLjkD3qLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223811597009-on6v3r9h6r6cbh76i2kbf66qedbnd4g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
